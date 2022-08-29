@@ -1,4 +1,3 @@
-require "spec_helper"
 require "./lib/challenge"
 
 RSpec.describe Challenge do
